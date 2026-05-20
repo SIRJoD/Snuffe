@@ -3,7 +3,7 @@
 # ==============================
 
 # Paste bot token later
-BOT_TOKEN = "8258883526:AAHQWCqFcP6oYX6X-S-4HCMNY5TZ7GV76cw"
+BOT_TOKEN = "8258883526:AAH-9jDK7xpQyV9BRPDnhUn175VwFhJnJ40"
 
 # Admin ID
 ADMIN_ID = 7896054759
